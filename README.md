@@ -4,9 +4,7 @@
 
 ### Inadecuado
 
-- for 0 <= x <= 30 is
-
-$$(-\frac{x}{30}  + 1)$$
+- for 0 <= x <= 30 is $$(-\frac{x}{30}  + 1)$$
 
 ### Marginal
 
