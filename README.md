@@ -4,7 +4,8 @@
 
 ### Inadecuado
 
-- for 0 <= x <= 30 is $$(-(x / 30) + 1)$$
+- for 0 <= x <= 30 is
+$$(-(x / 30) + 1)$$
 
 ### Marginal
 
